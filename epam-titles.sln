@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "epam-titles.PatternDesign",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "epam-titles.AsyncAwait", "epam-titles.AsyncAwait\epam-titles.AsyncAwait.csproj", "{C633830B-7B71-4A4E-A13D-C02B3AA6EED1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "epam-titles.Tests", "epam-titles.Tests\epam-titles.Tests.csproj", "{C9AEB6E2-9176-4AAE-9249-3432A85B0964}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C633830B-7B71-4A4E-A13D-C02B3AA6EED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C633830B-7B71-4A4E-A13D-C02B3AA6EED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C633830B-7B71-4A4E-A13D-C02B3AA6EED1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9AEB6E2-9176-4AAE-9249-3432A85B0964}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9AEB6E2-9176-4AAE-9249-3432A85B0964}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9AEB6E2-9176-4AAE-9249-3432A85B0964}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9AEB6E2-9176-4AAE-9249-3432A85B0964}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
