@@ -8,6 +8,10 @@ namespace epam_titles.GC
 {
     class Connection : IDisposable
     {
+        ~Connection()
+        {
+            Console.WriteLine("Объект Connection удален");
+        }
         public void Dispose()
         {
             System.GC.Collect();
